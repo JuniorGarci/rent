@@ -1,0 +1,115 @@
+C:\Users\Chacon\source\repos\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe.config
+C:\Users\Chacon\source\repos\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe
+C:\Users\Chacon\source\repos\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.pdb
+C:\Users\Chacon\source\repos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.AssemblyReference.cache
+C:\Users\Chacon\source\repos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmInicioSesion.resources
+C:\Users\Chacon\source\repos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Properties.Resources.resources
+C:\Users\Chacon\source\repos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.GenerateResource.cache
+C:\Users\Chacon\source\repos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.CoreCompileInputs.cache
+C:\Users\Chacon\source\repos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.exe
+C:\Users\Chacon\source\repos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.pdb
+C:\Users\Chacon\source\repos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmCrearUsuario.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe.config
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.pdb
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmCrearUsuario.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmInicioSesion.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Properties.Resources.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.exe
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.pdb
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmDirecciones.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmPersonas.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Factura.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Home.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Recibo.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Maquina.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe.config
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.pdb
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmCrearUsuario.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmDirecciones.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Factura.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmInicioSesion.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Home.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Maquina.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmPersonas.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Properties.Resources.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Recibo.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.exe
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.pdb
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe.config
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.pdb
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.AssemblyReference.cache
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmCrearUsuario.resources
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmDirecciones.resources
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Factura.resources
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmInicioSesion.resources
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Home.resources
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Maquina.resources
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmPersonas.resources
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Properties.Resources.resources
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Recibo.resources
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.GenerateResource.cache
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.CoreCompileInputs.cache
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.exe
+C:\Users\Chacon\Desktop\III Pac 2023\Bd\C#_proyect\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.pdb
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe.config
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.pdb
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmCrearUsuario.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmDirecciones.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Factura.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmInicioSesion.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Home.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Maquina.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmPersonas.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Properties.Resources.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Recibo.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.exe
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoCarlos\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.pdb
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe.config
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.pdb
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.AssemblyReference.cache
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmCrearUsuario.resources
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmDirecciones.resources
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Factura.resources
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmInicioSesion.resources
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Home.resources
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Maquina.resources
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmPersonas.resources
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Properties.Resources.resources
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Recibo.resources
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.GenerateResource.cache
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.CoreCompileInputs.cache
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.exe
+C:\Users\Chacon\Desktop\rentadora-otra\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.pdb
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe.config
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.exe
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\bin\Debug\Rentadora-equipo.pdb
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmCrearUsuario.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmDirecciones.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Factura.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Home.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Maquina.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmPersonas.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Properties.Resources.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Recibo.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.exe
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora-equipo.pdb
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.DetalleOrden.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.Orden.resources
+C:\Users\DELL\Documents\Clases_IS\Bases 1 3 PAC\Proy\Rentadora-equipoMaquinaguardado\Rentadora-equipoMaquina\Rentadora-equipo\Rentadora-equipo\obj\Debug\Rentadora_equipo.frmInicioSesion.resources
